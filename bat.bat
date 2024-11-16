@@ -1,0 +1,1 @@
+pythonw "C:\Users\ersez\Desktop\battery_percentage.py"
